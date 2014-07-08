@@ -15,4 +15,4 @@ Mem-tree stores the file in a tree structure making it easy to append, visualize
 
 Source
 =======
-Its written in simple java using GWT framework.
+Its written in java using GWT framework.
