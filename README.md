@@ -15,4 +15,5 @@ Mem-tree stores the file in a tree structure making it easy to append, visualize
 
 Source
 =======
-Its written in java using GWT framework.
+
+Java (GWT), Javascript, native javascript, CSS, HTML, oAuth2.
